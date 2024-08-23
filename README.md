@@ -66,7 +66,7 @@ Ladder Logic: Represented by a combination of AND, OR, and NOT gates.
 ![image](https://github.com/user-attachments/assets/779d2e7d-f65f-4092-98cc-ffb576afa162)
 
 # XOR Gate:
-![image](https://github.com/user-attachments/assets/0c77865f-bcd3-45a0-92d9-1c01d4857320)
+![XOR GATE](https://github.com/user-attachments/assets/243db161-88e1-4b0a-bddc-efeb7646d467)
 
 # Procedure:
 ### Setup the PLC Programming Environment:
