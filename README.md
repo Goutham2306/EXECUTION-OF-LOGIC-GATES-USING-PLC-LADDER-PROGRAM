@@ -1,10 +1,10 @@
 # EXECUTION-OF-LOGIC-GATES-USING-PLC-LADDER-PROGRAM
 
 
- # NAME :
- # REGISTER NUMBER :
- # DEPARTMENT 
- # YEAR 
+ # NAME : K.GOUTHAM
+ # REGISTER NUMBER : 212223110019
+ # DEPARTMENT : CSE(IoT)
+ # YEAR : II
 
  
 # Aim:
@@ -48,10 +48,28 @@ XOR Gate:
 
 Function: Outputs HIGH when an odd number of inputs are HIGH.
 Ladder Logic: Represented by a combination of AND, OR, and NOT gates.
-# Truth Tables:
- 
+## Truth Tables:
+ # AND Gate:
+ ![image](https://github.com/user-attachments/assets/7c3502d7-4006-43e1-a307-ddbed31344d4)
+
+ # OR Gate:
+
+![image](https://github.com/user-attachments/assets/73a69bdf-e226-47fd-8206-b7dce9f3ab46)
+
+# NOT Gate:
+ ![image](https://github.com/user-attachments/assets/841b173e-3ccb-45f0-a5bb-2e218be01850)
+
+# NAND Gate:
+ ![image](https://github.com/user-attachments/assets/c36a7f21-5cb2-4d37-a51b-0f6f122460a9)
+
+# NOR Gate:
+![image](https://github.com/user-attachments/assets/779d2e7d-f65f-4092-98cc-ffb576afa162)
+
+# XOR Gate:
+![image](https://github.com/user-attachments/assets/0c77865f-bcd3-45a0-92d9-1c01d4857320)
+
 # Procedure:
-Setup the PLC Programming Environment:
+### Setup the PLC Programming Environment:
 
 Connect the PLC to the computer system and launch the PLC programming software.
 Ensure all input and output devices are correctly connected to the PLC’s I/O modules.
@@ -61,7 +79,6 @@ For each logic gate, create a ladder logic rung that corresponds to the truth ta
 Use normally open (NO) and normally closed (NC) contacts to implement AND, OR, and NOT logic.
 For NAND, NOR, and XOR gates, combine the basic gates appropriately in the ladder diagram.
 Simulate the Ladder Logic:
-
 Simulate the ladder logic programs in the PLC software.
 Toggle the input states and observe the output corresponding to each gate’s truth table.
 # Download and Execute:
@@ -79,9 +96,26 @@ XOR Gate: The output should light up when exactly one input is HIGH.
 
 
 # SIMULATION RESULTS 
+## AND Gate:
+![AND GATE](https://github.com/user-attachments/assets/9073bd3a-a207-4e68-bb86-dfce420e25b3)
+
+## OR Gate:
+![OR GATE](https://github.com/user-attachments/assets/5c8045c6-386a-4b70-9045-833f1a2a7ed8)
+
+## NOT Gate:
+![not gate](https://github.com/user-attachments/assets/418315f9-33b9-451e-8885-bc4bfa1352e1)
+
+## NAND Gate:
+![NAND  GATE](https://github.com/user-attachments/assets/ec0595a4-e196-43f7-9863-9f93d7d52f48)
+
+## NOR Gate:
+![NOR gate](https://github.com/user-attachments/assets/9fe942a7-4127-4f48-9836-efab4508c7c9)
+
+## XOR Gate:
+![EX-OR](https://github.com/user-attachments/assets/070af061-46fd-4530-a81d-4b092b5fa4a0)
 
 
-#Results:
+# Results:
 The ladder logic programs for each logic gate were successfully implemented and simulated.
 The outputs observed matched the expected results as per the truth tables of the respective logic gates.
 This experiment demonstrates the effective use of PLCs in executing digital logic operations, which are fundamental to industrial control systems.
