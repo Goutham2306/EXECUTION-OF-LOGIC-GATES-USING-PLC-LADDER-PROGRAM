@@ -112,7 +112,8 @@ XOR Gate: The output should light up when exactly one input is HIGH.
 ![NOR gate](https://github.com/user-attachments/assets/9fe942a7-4127-4f48-9836-efab4508c7c9)
 
 ## XOR Gate:
-![EX-OR](https://github.com/user-attachments/assets/070af061-46fd-4530-a81d-4b092b5fa4a0)
+![XOR GATE](https://github.com/user-attachments/assets/340661a7-f00e-4101-88ca-90cfcc29affe)
+
 
 
 # Results:
